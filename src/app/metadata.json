@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Home",
+    "route": "/",
+    "title": "Home | build-an-online-5633",
+    "description": "Home page for build-an-online-5633"
+  },
+  {
+    "name": "Product Catalog",
+    "route": "/products",
+    "title": "Product Catalog | build-an-online-5633",
+    "description": "Product Catalog page for build-an-online-5633"
+  },
+  {
+    "name": "About",
+    "route": "/about",
+    "title": "About | build-an-online-5633",
+    "description": "About page for build-an-online-5633"
+  }
+]
